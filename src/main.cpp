@@ -6,7 +6,7 @@ void setup() {
 }
 
 void loop() {
-  Serial.printf("Hello world");
+  Serial.printf("Test ssh");
   delay(3000);
   //test po dodaniu klucza ssh
 }
