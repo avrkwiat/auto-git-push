@@ -6,8 +6,8 @@ print("Running prebuild.py script...")
 env.Execute("git fetch")
 if subprocess.check_output(['git', 'diff', 'HEAD', 'origin/master']):
 
-    print("ZROB PULLA!!!")
-
+    print("Robie PULLA!!!")
+    env.Execute("git pull origin master")
     sys.exit(1)
 
 version = int(''.join(file('src/build')).replace('\n',''))
