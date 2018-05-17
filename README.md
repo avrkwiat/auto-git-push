@@ -1,2 +1,2 @@
-# test
-Jakis test
+# Git test
+automatyczny push git - test
