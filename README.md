@@ -6,8 +6,8 @@ Only need ssh key and link to own repository:
 https://ipatryk.pl/polaczenie-do-github-przez-ssh/
 
 2) Link to ssh and https repository:
-git@github.com:avrkwiat/test.git
-https://github.com/avrkwiat/test
+git@github.com:avrkwiat/auto-git-push.git  
+https://github.com/avrkwiat/auto-git-push
 
 3) Helpfull windows GUI git program:
 https://tortoisegit.org/
