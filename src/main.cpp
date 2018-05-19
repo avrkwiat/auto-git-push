@@ -7,5 +7,4 @@ void setup() {
 void loop() {
   Serial.printf("Test ssh");
   delay(3000);
-  //test
 }
